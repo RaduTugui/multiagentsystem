@@ -33,7 +33,7 @@ Sequence, Condition, Action.
 
 ### Steps
 1. Clone the repository
-   git clone https://github.com/yourusername/shop-mas.git
+   git clone https://github.com/RaduTugui/multiagentsystem.git
 
 2. Add jade.jar to your classpath
 
