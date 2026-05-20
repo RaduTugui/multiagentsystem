@@ -1,0 +1,9 @@
+For the Project I used AI tools such Gemini and Claude, in order to explain some parts of the code related to behavior of the agents.
+
+After the explanation, I played around and I modify the files accordingly with the task.
+
+
+
+
+
+
